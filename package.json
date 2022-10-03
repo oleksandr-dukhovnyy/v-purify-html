@@ -1,0 +1,27 @@
+{
+  "name": "v-purify-html",
+  "version": "0.1.0",
+  "description": "A custom directive for Vue that allows you to flexibly and easily control the output of potentially dangerous HTML.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksandr-JS-Developer/v-purify-html.git"
+  },
+  "keywords": [
+    "vue-directive",
+    "sanitize",
+    "html-sanitize"
+  ],
+  "author": "alex-js-dev",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aleksandr-JS-Developer/v-purify-html/issues"
+  },
+  "homepage": "https://github.com/Aleksandr-JS-Developer/v-purify-html#readme",
+  "dependencies": {
+    "purify-html": "^1.0.1"
+  }
+}
