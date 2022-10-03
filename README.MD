@@ -2,7 +2,7 @@
 
 ![size](https://img.shields.io/github/languages/code-size/Aleksandr-JS-Developer/v-purify-html?style=flat-square)
 
-Vue directive that uses the [purify-html](https://github.com/Aleksandr-JS-Developer/purify-html) package to safely inject potentially dangerous HTML into a page.
+Vue directive that uses the [purify-html](https://www.npmjs.com/package/purify-html) package to safely inject potentially dangerous HTML into a page.
 
 ## Install
 
