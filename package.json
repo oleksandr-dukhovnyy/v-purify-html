@@ -1,6 +1,6 @@
 {
   "name": "v-purify-html",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A custom directive for Vue that allows you to flexibly and easily control the output of potentially dangerous HTML.",
   "main": "index.js",
   "repository": {
