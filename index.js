@@ -6,7 +6,7 @@ export default {
     const defaultSanitizer = new Sanitizer(options.allowedTags);
     const presetsList = {
       default: options.allowedTags,
-      ...JSON.parse(JSON.stringify(options.presets)),
+      ...options.presets,
     };
 
     Vue.directive(directiveName, (el, binding) => {
