@@ -73,3 +73,5 @@ new Vue({
   };
 </script>
 ```
+
+[Try it](https://codesandbox.io/s/strange-leakey-7u9ven?file=/src/App.vue)
