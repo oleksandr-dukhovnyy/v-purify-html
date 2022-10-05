@@ -8,8 +8,16 @@ Vue directive that uses the [purify-html](https://www.npmjs.com/package/purify-h
 
 ## Install
 
+npm
+
 ```bash
 npm install v-purify-html
+```
+
+yarn
+
+```bash
+yarn add v-purify-html
 ```
 
 ---
