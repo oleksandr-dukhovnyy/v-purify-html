@@ -1,6 +1,8 @@
 # v-purify-html
 
 ![size](https://img.shields.io/github/languages/code-size/Aleksandr-JS-Developer/v-purify-html?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/Aleksandr-JS-Developer/v-purify-html?style=flat-square)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Aleksandr-JS-Developer/v-purify-html?style=flat-square)
 
 Vue directive that uses the [purify-html](https://www.npmjs.com/package/purify-html) package to safely inject potentially dangerous HTML into a page.
 
