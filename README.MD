@@ -46,8 +46,8 @@ Vue.use(vPurifyHTML, {
   allowedTags: [], // clear all tags by default
   presets: {
     'can-p': [{ name: 'p', attributes: ['style'] }],
-    'can-h1': [{ name: 'h1' }],
-    'can-h2': [{ name: 'h2' }],
+    'can-h1': ['h1'],
+    'can-h2': ['h2'],
   },
 });
 
