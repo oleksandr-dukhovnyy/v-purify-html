@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Aleksandr-JS-Developer/v-purify-html#readme",
   "dependencies": {
-    "purify-html": "^1.3.3"
+    "purify-html": "^1.4.4"
   }
 }

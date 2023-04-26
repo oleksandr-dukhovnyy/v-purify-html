@@ -1,7 +1,7 @@
 import Sanitizer from 'purify-html';
 
 export default {
-  install(Vue, options = {}) {
+  install(Vue, options = { presets: [] }) {
     const directiveName = options.directiveName || 'purify-html';
     const defaultSanitizer = new Sanitizer(options.allowedTags);
     const presetsList = {
